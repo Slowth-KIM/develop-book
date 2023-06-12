@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [HTTP 완벽 가이드](README.md)
